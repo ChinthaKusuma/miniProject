@@ -1,0 +1,29 @@
+.header_container {
+  background-color: #1e1e30;
+  /* background-color: white; */
+  height: 80px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.website_logo_image {
+  margin-top: 28px;
+  margin-left: 150px;
+  height: 24px;
+  width: 130px;
+}
+.unordered_list {
+  color: white;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-right: 200px;
+  margin-top: 28px;
+}
+.list_item {
+  margin-left: 10px;
+
+  /* margin-left: 1156px; */
+}

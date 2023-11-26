@@ -1,0 +1,51 @@
+.Home_Container {
+  background-color: #161625;
+  min-height: 100vh;
+}
+.search_container {
+  background-color: #2f2f43;
+
+  width: 800px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 200px;
+  color: #94a3b8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+}
+.search_icon {
+  height: 24px;
+  width: 24px;
+  margin-left: 10px;
+  /* margin-top: 10px; */
+}
+.all_states_data_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  padding-bottom: 30px;
+}
+
+.input {
+  background-color: transparent;
+  outline: none;
+  border: 0px;
+  padding: 10px;
+  color: white;
+  margin-left: 10px;
+}
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}
+.footer1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

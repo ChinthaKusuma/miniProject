@@ -1,0 +1,27 @@
+.h11 {
+  color: white;
+}
+.top-districts {
+  color: #94a3b8;
+  display: flex;
+  width: 25vw;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.para_name {
+  margin-top: 35px;
+  margin-left: 10px;
+}
+.districts {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 30px;
+}
+.districts1 {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

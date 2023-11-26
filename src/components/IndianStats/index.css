@@ -1,0 +1,29 @@
+.container1 {
+  color: #ff073a;
+  background-color: transparent;
+  border: 0px;
+}
+.container2 {
+  color: #007bff;
+  background-color: transparent;
+  border: 0px;
+}
+.container3 {
+  color: #28a745;
+  background-color: transparent;
+  border: 0px;
+}
+
+.container4 {
+  color: #6c757d;
+  background-color: transparent;
+  border: 0px;
+}
+.indianStatsContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 979px;
+  padding-left: 328px;
+  padding-top: 20px;
+  /* align-items: center; */
+}

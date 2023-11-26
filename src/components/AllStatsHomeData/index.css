@@ -1,0 +1,41 @@
+.table_container {
+  background-color: #1e1e30;
+  border-radius: 12px;
+  border: 1px solid #475569;
+  width: 80vw;
+}
+.row_container {
+  display: flex;
+}
+.cell_container1 {
+  width: 203px;
+  color: white;
+  list-style: none;
+}
+.cell_container2 {
+  width: 270px;
+  color: white;
+  list-style: none;
+}
+.asc_desc {
+  display: flex;
+  color: white;
+}
+.icon1 {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+hr {
+  border: 1px solid #475569;
+}
+.asc_button {
+  background-color: transparent;
+  color: white;
+  border: 0px;
+}
+.forward_button_container {
+  color: #facc15;
+  display: flex;
+
+  background: #1cd4d429;
+}

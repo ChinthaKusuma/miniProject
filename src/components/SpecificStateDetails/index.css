@@ -1,0 +1,33 @@
+.state-name {
+  background-color: #0284c729;
+  color: #0ea5e9;
+  border-radius: 20px;
+  height: 48px;
+
+  width: 20vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.Home_Container1 {
+  /* background-color: #161625; */
+
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+}
+.para1 {
+  /* color: white; */
+  color: #94a3b8;
+}
+.con2 {
+  color: #94a3b8;
+}
+.state_name_con {
+  display: flex;
+  justify-content: space-between;
+}
+.heading_top_districts {
+  color: #ff073a;
+}
